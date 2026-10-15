@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 1040" role="img">
+  <title>Sample EDI order flow</title>
+  <desc>Sample: customer PO EDI 850, EDI platform validation, 997 acknowledgment, ERP sales order, production planning, ship plus ASN EDI 856, invoice EDI 810.</desc>
+  <rect width="420" height="1040" fill="#fffcf8"/>
+  <rect x="20" y="20" width="78" height="26" rx="13" fill="none" stroke="#6d3a22" stroke-width="1.5"/>
+  <text x="59" y="38" text-anchor="middle" fill="#6d3a22" font-size="12" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">SAMPLE</text>
+  <text x="108" y="38" fill="#6d3a22" font-size="14" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">示例</text>
+  <text x="20" y="74" fill="#17202b" font-size="20" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">EDI 订单流程</text>
+  <text x="20" y="98" fill="#3c4654" font-size="14" font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">EDI order flow · sample</text>
+
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">
+    <rect x="16" y="124" width="388" height="104" rx="12" fill="#fffcf8" stroke="#ddd6c8"/>
+    <rect x="32" y="158" width="44" height="36" rx="8" fill="#0e4d5c"/>
+    <text x="54" y="182" text-anchor="middle" fill="#f4f1ea" font-size="14" font-weight="700">01</text>
+    <text x="92" y="170" fill="#17202b" font-size="16" font-weight="700">客户采购订单 · EDI 850</text>
+    <text x="92" y="196" fill="#3c4654" font-size="14">Customer PO · EDI 850</text>
+  </g>
+  <line x1="54" y1="230" x2="54" y2="242" stroke="#0e4d5c" stroke-width="1.5"/>
+  <path d="M48 242 L54 250 L60 242" fill="#0e4d5c"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">
+    <rect x="16" y="252" width="388" height="104" rx="12" fill="#fffcf8" stroke="#ddd6c8"/>
+    <rect x="32" y="286" width="44" height="36" rx="8" fill="#0e4d5c"/>
+    <text x="54" y="310" text-anchor="middle" fill="#f4f1ea" font-size="14" font-weight="700">02</text>
+    <text x="92" y="298" fill="#17202b" font-size="16" font-weight="700">EDI 平台校验</text>
+    <text x="92" y="324" fill="#3c4654" font-size="14">EDI platform validation</text>
+  </g>
+  <line x1="54" y1="358" x2="54" y2="370" stroke="#0e4d5c" stroke-width="1.5"/>
+  <path d="M48 370 L54 378 L60 370" fill="#0e4d5c"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">
+    <rect x="16" y="380" width="388" height="104" rx="12" fill="#fffcf8" stroke="#ddd6c8"/>
+    <rect x="32" y="414" width="44" height="36" rx="8" fill="#0e4d5c"/>
+    <text x="54" y="438" text-anchor="middle" fill="#f4f1ea" font-size="14" font-weight="700">03</text>
+    <text x="92" y="426" fill="#17202b" font-size="16" font-weight="700">997 确认</text>
+    <text x="92" y="452" fill="#3c4654" font-size="14">997 acknowledgment</text>
+  </g>
+  <line x1="54" y1="486" x2="54" y2="498" stroke="#0e4d5c" stroke-width="1.5"/>
+  <path d="M48 498 L54 506 L60 498" fill="#0e4d5c"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">
+    <rect x="16" y="508" width="388" height="104" rx="12" fill="#fffcf8" stroke="#ddd6c8"/>
+    <rect x="32" y="542" width="44" height="36" rx="8" fill="#0e4d5c"/>
+    <text x="54" y="566" text-anchor="middle" fill="#f4f1ea" font-size="14" font-weight="700">04</text>
+    <text x="92" y="554" fill="#17202b" font-size="16" font-weight="700">ERP 销售订单</text>
+    <text x="92" y="580" fill="#3c4654" font-size="14">ERP sales order</text>
+  </g>
+  <line x1="54" y1="614" x2="54" y2="626" stroke="#0e4d5c" stroke-width="1.5"/>
+  <path d="M48 626 L54 634 L60 626" fill="#0e4d5c"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">
+    <rect x="16" y="636" width="388" height="104" rx="12" fill="#fffcf8" stroke="#ddd6c8"/>
+    <rect x="32" y="670" width="44" height="36" rx="8" fill="#0e4d5c"/>
+    <text x="54" y="694" text-anchor="middle" fill="#f4f1ea" font-size="14" font-weight="700">05</text>
+    <text x="92" y="682" fill="#17202b" font-size="16" font-weight="700">生产计划</text>
+    <text x="92" y="708" fill="#3c4654" font-size="14">Production planning</text>
+  </g>
+  <line x1="54" y1="742" x2="54" y2="754" stroke="#0e4d5c" stroke-width="1.5"/>
+  <path d="M48 754 L54 762 L60 754" fill="#0e4d5c"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">
+    <rect x="16" y="764" width="388" height="104" rx="12" fill="#fffcf8" stroke="#ddd6c8"/>
+    <rect x="32" y="798" width="44" height="36" rx="8" fill="#0e4d5c"/>
+    <text x="54" y="822" text-anchor="middle" fill="#f4f1ea" font-size="14" font-weight="700">06</text>
+    <text x="92" y="810" fill="#17202b" font-size="16" font-weight="700">出货 + ASN · EDI 856</text>
+    <text x="92" y="836" fill="#3c4654" font-size="14">Ship + ASN · EDI 856</text>
+  </g>
+  <line x1="54" y1="870" x2="54" y2="882" stroke="#0e4d5c" stroke-width="1.5"/>
+  <path d="M48 882 L54 890 L60 882" fill="#0e4d5c"/>
+  <g font-family="PingFang SC, Hiragino Sans GB, Microsoft YaHei, Noto Sans CJK SC, WenQuanYi Micro Hei, Segoe UI, sans-serif">
+    <rect x="16" y="892" width="388" height="104" rx="12" fill="#fffcf8" stroke="#ddd6c8"/>
+    <rect x="32" y="926" width="44" height="36" rx="8" fill="#0e4d5c"/>
+    <text x="54" y="950" text-anchor="middle" fill="#f4f1ea" font-size="14" font-weight="700">07</text>
+    <text x="92" y="938" fill="#17202b" font-size="16" font-weight="700">发票 · EDI 810</text>
+    <text x="92" y="964" fill="#3c4654" font-size="14">Invoice · EDI 810</text>
+  </g>
+</svg>
